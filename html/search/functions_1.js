@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['dispose',['Dispose',['../class_statystyki___o_s_p_1_1_accident_form.html#a36cf7a790ab5bad9c14734476e9fd8ed',1,'Statystyki_OSP.AccidentForm.Dispose()'],['../class_statystyki___o_s_p_1_1_accident_list_form.html#a773c2b928ab147d1209dbb0a92ba5d8b',1,'Statystyki_OSP.AccidentListForm.Dispose()'],['../class_statystyki___o_s_p_1_1_fireman_form.html#a651a19a5d290493f52a21df3dbf3fe86',1,'Statystyki_OSP.FiremanForm.Dispose()'],['../class_statystyki___o_s_p_1_1_fireman_list_form.html#a3dd2acec670d01d8e3af7bc9435efc54',1,'Statystyki_OSP.FiremanListForm.Dispose()'],['../class_statystyki___o_s_p_1_1_menu_glowne.html#afbebe7500d026a779c7502dde03b641c',1,'Statystyki_OSP.MenuGlowne.Dispose()'],['../class_statystyki___o_s_p_1_1_vehicle_from.html#ac2cb5de1e458cfaac3f8a1644bc1437c',1,'Statystyki_OSP.VehicleFrom.Dispose()'],['../class_statystyki___o_s_p_1_1_vehicle_list_form.html#a91994c91f80d726d8e8e7adc873d35ba',1,'Statystyki_OSP.VehicleListForm.Dispose()']]]
+];
